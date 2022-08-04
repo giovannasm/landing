@@ -9,6 +9,7 @@
   opacity: 0.8;
 }
 .cards {
+  padding: 0px 25px 0px 25px;
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;

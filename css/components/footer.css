@@ -14,5 +14,6 @@
   color: #FFBA08;
 }
 .footer i:hover {
-  color: #2E5266;
+  color: #FFBA08;
+  opacity: 0.7;
 }
