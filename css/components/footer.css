@@ -1,0 +1,18 @@
+.footer {
+  background-color: #2E5266;
+  color: #fff;
+  list-style: none;
+  text-align: center;
+  padding: 60px;
+}
+.footer li {
+  display: inline;
+  padding: 10px;
+}
+.footer i {
+  font-size: 30px;
+  color: #FFBA08;
+}
+.footer i:hover {
+  color: #2E5266;
+}

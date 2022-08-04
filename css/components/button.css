@@ -1,0 +1,14 @@
+#btn-main {
+  background-color: #FFBA08;
+  color: white;
+  font-weight: bold;
+  padding: 15px 20px;
+  border-radius: 4px;
+  text-shadow: none;
+  display: inline-block;
+}
+#btn-main:hover {
+  background-color: #E8EEF2;
+  color: #FFBA08;
+  transition: background 0.2ms ease;
+}
